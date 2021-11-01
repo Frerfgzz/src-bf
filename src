@@ -4007,7 +4007,6 @@ game:GetService'VirtualUser':Button1Down(Vector2.new(2347, 254))
    end)
    
 end
-local placeId = game.PlaceId
 local OldWorld = false
 local newworld = false
 local ThreeWorld = falseMagnet = true
